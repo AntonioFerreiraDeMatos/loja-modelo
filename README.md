@@ -72,6 +72,8 @@ Set-Location ..\frontend; node --test test/
 
 ## Publicação
 
+Planos de evolução em [docs/melhorias.md](docs/melhorias.md).
+
 Passo a passo em [docs/deploy-hostinger.md](docs/deploy-hostinger.md) e lista de
 conferência em [docs/novo-cliente.md](docs/novo-cliente.md).
 
